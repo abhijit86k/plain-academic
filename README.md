@@ -1,4 +1,8 @@
+## Update:
+An improved version of this template using Bootstrap4 can be seen [here](https://gitea.iitdh.ac.in/kabhijit/BootstrapHomepageTemplate)
+
 # Plain-Academic Template
+
 A truly simple website template for academics.
 
 
